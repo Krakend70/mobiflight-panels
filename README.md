@@ -29,7 +29,7 @@ and it is laid out with red and black so that it is compatible with a workflow u
 laser cutter, to cut and engrave the panels out of acrylic plastic sheet.
 
 The PCB design JSON files can be opened with EasyEDA PCB design suite, accessible at www.easyeda.com. 
-On the EasyEDA editor, select "Document" > "Open" > "EasyEDA Source" to import both JSON files into the editor.
+In the EasyEDA, create a project and paste the content of both JSON files into the editor.
 One of them is the wiring schema, and the other one is the pcboard itself.
 
 ## Mind the gap!
